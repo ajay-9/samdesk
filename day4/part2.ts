@@ -10,7 +10,7 @@ function countShapeMAS(grid: string[]): number {
       if (grid[i][j] !== "A") continue;
 
       const tl = grid[i - 1][j - 1]; 
-      const tr = grid[i - 1][j + 1]; 
+      const tr = grid[i - 1][j + 1];
       const bl = grid[i + 1][j - 1]; 
       const br = grid[i + 1][j + 1]; 
 
