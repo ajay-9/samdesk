@@ -22,7 +22,7 @@ TypeScript solutions for **Advent of Code 2024 - Day 4**, including both Part 1 
 3. Run Part 2  
 `npx ts-node day4/part2.ts`
 
-## 🧠 Notes
+## Notes
 
 - Requires Node.js v18+ and npm.
 - The project uses ts-node to run TypeScript directly.
